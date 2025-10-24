@@ -1,4 +1,4 @@
-![Plugin Icon](for4.x/GetLyrics/gl.png)
+![Plugin Icon](4.x/GetLyrics/gl.png)
 
 # Get lyrics plugin for MuseScore
 
